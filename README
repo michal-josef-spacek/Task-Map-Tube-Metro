@@ -9,12 +9,12 @@ SEE ALSO
     Map::Tube::Bucharest, Map::Tube::Budapest, Map::Tube::Delhi,
     Map::Tube::Dnipropetrovsk, Map::Tube::Glasgow, Map::Tube::Kazan,
     Map::Tube::Kharkiv, Map::Tube::Kiev, Map::Tube::KoelnBonn,
-    Map::Tube::London, Map::Tube::Lyon, Map::Tube::Minsk, Map::Tube::Moscow,
-    Map::Tube::NYC, Map::Tube::Nanjing, Map::Tube::Novosibirsk,
-    Map::Tube::Prague, Map::Tube::SaintPetersburg, Map::Tube::Samara,
-    Map::Tube::Singapore, Map::Tube::Sofia, Map::Tube::Tbilisi,
-    Map::Tube::Tokyo, Map::Tube::Vienna, Map::Tube::Warsaw,
-    Map::Tube::Yekaterinburg.
+    Map::Tube::KualaLumpur, Map::Tube::London, Map::Tube::Lyon,
+    Map::Tube::Minsk, Map::Tube::Moscow, Map::Tube::NYC, Map::Tube::Nanjing,
+    Map::Tube::Novosibirsk, Map::Tube::Prague, Map::Tube::SaintPetersburg,
+    Map::Tube::Samara, Map::Tube::Singapore, Map::Tube::Sofia,
+    Map::Tube::Tbilisi, Map::Tube::Tokyo, Map::Tube::Vienna,
+    Map::Tube::Warsaw, Map::Tube::Yekaterinburg.
 
 REPOSITORY
     <https://github.com/tupinek/Task-Map-Tube-Metro>
