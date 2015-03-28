@@ -15,6 +15,7 @@ MANIFEST			This list of files
 META.yml
 Metro.pm
 README
+SIGNATURE
 t/Task-Map-Tube-Metro/00-use.t
 t/Task-Map-Tube-Metro/01-version.t
 t/Task-Map-Tube-Metro/02-pod_coverage.t
