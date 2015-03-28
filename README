@@ -1,0 +1,34 @@
+NAME
+    Task::Map::Tube - Install the Map::Tube concrete metro modules.
+
+SYNOPSIS
+     cpanm Task::Map::Tube::Metro
+
+SEE ALSO
+    Map::Tube::Barcelona, Map::Tube::Beijing, Map::Tube::Berlin,
+    Map::Tube::Bucharest, Map::Tube::Budapest, Map::Tube::Delhi,
+    Map::Tube::Dnipropetrovsk, Map::Tube::Glasgow, Map::Tube::Kazan,
+    Map::Tube::Kharkiv, Map::Tube::Kiev, Map::Tube::KoelnBonn,
+    Map::Tube::London, Map::Tube::Lyon, Map::Tube::Minsk, Map::Tube::Moscow,
+    Map::Tube::NYC, Map::Tube::Nanjing, Map::Tube::Novosibirsk,
+    Map::Tube::Prague, Map::Tube::SaintPetersburg, Map::Tube::Samara,
+    Map::Tube::Singapore, Map::Tube::Sofia, Map::Tube::Tbilisi,
+    Map::Tube::Tokyo, Map::Tube::Vienna, Map::Tube::Warsaw,
+    Map::Tube::Yekaterinburg.
+
+REPOSITORY
+    <https://github.com/tupinek/Task-Map-Tube-Metro>
+
+AUTHOR
+    Michal Špaček <mailto:skim@cpan.org>
+
+    <http://skim.cz>
+
+LICENSE AND COPYRIGHT
+     © 2015 Michal Špaček
+     Artistic License
+     BSD 2-Clause License
+
+VERSION
+    0.01
+
