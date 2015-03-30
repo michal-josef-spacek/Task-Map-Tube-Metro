@@ -1,7 +1,7 @@
 0.02
  - Update Map::Tube::NYC to 0.23 version.
  - Add missing dependency to Map::Tube::KualaLumpur.
- - Update Map::Tube::KualaLumpur to 0.02 version.
+ - Update Map::Tube::KualaLumpur to 0.03 version.
 
 0.01 2015-03-28T18:07:40+01:00
  - Add Map::Tube::KualaLumpur 0.01 version.
