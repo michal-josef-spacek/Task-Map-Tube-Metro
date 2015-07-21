@@ -3,6 +3,7 @@
  - Update Map::Tube::Barcelona to 0.21 version.
  - Update Map::Tube::KualaLumpur to 0.03 version.
  - Update Map::Tube::NYC to 0.23 version.
+ - Update Module::Install to 1.16 version.
 
 0.01 2015-03-28T18:07:40+01:00
  - Add Map::Tube::KualaLumpur 0.01 version.
