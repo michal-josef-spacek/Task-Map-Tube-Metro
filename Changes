@@ -1,5 +1,6 @@
 0.02
  - Add missing dependency to Map::Tube::KualaLumpur.
+ - Update Map::Tube::Barcelona to 0.21 version.
  - Update Map::Tube::KualaLumpur to 0.03 version.
  - Update Map::Tube::NYC to 0.23 version.
 

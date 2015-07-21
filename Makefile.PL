@@ -12,7 +12,7 @@ license 'bsd';
 license 'artistic_2';
 name 'Task-Map-Tube-Metro';
 readme_from 'Metro.pm';
-requires 'Map::Tube::Barcelona' => 0.20;
+requires 'Map::Tube::Barcelona' => 0.21;
 requires 'Map::Tube::Beijing' => 0.01;
 requires 'Map::Tube::Berlin' => 0.09;
 requires 'Map::Tube::Bucharest' => 0.05;
