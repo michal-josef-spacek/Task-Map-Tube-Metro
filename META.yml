@@ -39,7 +39,7 @@ requires:
   Map::Tube::Kiev: 0.03
   Map::Tube::KoelnBonn: 0.09
   Map::Tube::KualaLumpur: 0.03
-  Map::Tube::London: 0.72
+  Map::Tube::London: 0.73
   Map::Tube::Lyon: 0.06
   Map::Tube::Minsk: 0.03
   Map::Tube::Moscow: 0.05
