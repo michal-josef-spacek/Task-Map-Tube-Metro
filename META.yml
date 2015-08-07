@@ -43,7 +43,7 @@ requires:
   Map::Tube::Lyon: 0.06
   Map::Tube::Minsk: 0.03
   Map::Tube::Moscow: 0.05
-  Map::Tube::NYC: 0.23
+  Map::Tube::NYC: 0.24
   Map::Tube::Nanjing: 0.02
   Map::Tube::Novosibirsk: 0.01
   Map::Tube::Prague: 0.1
