@@ -25,36 +25,129 @@ Task::Map::Tube - Install the Map::Tube concrete metro modules.
 
 =head1 SEE ALSO
 
-L<Map::Tube::Barcelona>,
-L<Map::Tube::Beijing>,
-L<Map::Tube::Berlin>,
-L<Map::Tube::Bucharest>,
-L<Map::Tube::Budapest>,
-L<Map::Tube::Delhi>,
-L<Map::Tube::Dnipropetrovsk>,
-L<Map::Tube::Glasgow>,
-L<Map::Tube::Kazan>,
-L<Map::Tube::Kharkiv>,
-L<Map::Tube::Kiev>,
-L<Map::Tube::KoelnBonn>,
-L<Map::Tube::KualaLumpur>,
-L<Map::Tube::London>,
-L<Map::Tube::Lyon>,
-L<Map::Tube::Minsk>,
-L<Map::Tube::Moscow>,
-L<Map::Tube::NYC>,
-L<Map::Tube::Nanjing>,
-L<Map::Tube::Novosibirsk>,
-L<Map::Tube::Prague>,
-L<Map::Tube::SaintPetersburg>,
-L<Map::Tube::Samara>,
-L<Map::Tube::Singapore>,
-L<Map::Tube::Sofia>,
-L<Map::Tube::Tbilisi>,
-L<Map::Tube::Tokyo>,
-L<Map::Tube::Vienna>,
-L<Map::Tube::Warsaw>,
-L<Map::Tube::Yekaterinburg>.
+=over
+
+=item L<Map::Tube::Barcelona>
+
+Interface to the Barcelona Metro Map.
+
+=item L<Map::Tube::Beijing>
+
+Interface to the Beijing tube map
+
+=item L<Map::Tube::Berlin>
+
+Interface to the Berlin S- and U-Bahn map.
+
+=item L<Map::Tube::Bucharest>
+
+Interface to the Bucharest Metro Map.
+
+=item L<Map::Tube::Budapest>
+
+Interface to the Budapest Metro Map.
+
+=item L<Map::Tube::Delhi>
+
+Interface to the Delhi Metro Map.
+
+=item L<Map::Tube::Dnipropetrovsk>
+
+Interface to the Dnipropetrovsk Metro Map.
+
+=item L<Map::Tube::Glasgow>
+
+Interface to the Glasgow tube map
+
+=item L<Map::Tube::Kazan>
+
+Interface to the Kazan Metro Map.
+
+=item L<Map::Tube::Kharkiv>
+
+Interface to the Kharkiv Metro Map.
+
+=item L<Map::Tube::Kiev>
+
+Interface to the Kiev Metro Map.
+
+=item L<Map::Tube::KoelnBonn>
+
+Interface to the Koeln-Bonn U- and S-Bahn and tram maps.
+
+=item L<Map::Tube::KualaLumpur>
+
+Interface to the KualaLumpur urban monorail system map.
+
+=item L<Map::Tube::London>
+
+Interface to the London Tube Map.
+
+=item L<Map::Tube::Lyon>
+
+Interface to the Lyon metro map.
+
+=item L<Map::Tube::Minsk>
+
+Interface to the Minsk Metro Map.
+
+=item L<Map::Tube::Moscow>
+
+Interface to the Moscow Metro Map.
+
+=item L<Map::Tube::NYC>
+
+Interface to the NYC Subway Map.
+
+=item L<Map::Tube::Nanjing>
+
+Interface to the Nanjing Metro Map.
+
+=item L<Map::Tube::Novosibirsk>
+
+Interface to the Novosibirsk Metro Map.
+
+=item L<Map::Tube::Prague>
+
+Interface to the Prague Metro Map.
+
+=item L<Map::Tube::SaintPetersburg>
+
+Interface to the Saint Petersburg Metro Map.
+
+=item L<Map::Tube::Samara>
+
+Interface to the Samara Metro Map.
+
+=item L<Map::Tube::Singapore>
+
+Interface to the Singapore Metro Map.
+
+=item L<Map::Tube::Sofia>
+
+Interface to the Sofia Metro Map.
+
+=item L<Map::Tube::Tbilisi>
+
+Interface to the Tbilisi Metro Map.
+
+=item L<Map::Tube::Tokyo>
+
+Interface to the Tokyo Subway Map.
+
+=item L<Map::Tube::Vienna>
+
+Interface to the Vienna U-Bahn Map.
+
+=item L<Map::Tube::Warsaw>
+
+Interface to the Warsaw Tube Map.
+
+=item L<Map::Tube::Yekaterinburg>
+
+Interface to the Yekaterinburg Metro Map.
+
+=back
 
 =head1 REPOSITORY
 
