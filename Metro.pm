@@ -87,6 +87,10 @@ Interface to the London Tube Map.
 
 Interface to the Lyon metro map.
 
+=item L<Map::Tube::Malaga>
+
+Interface to the Málaga Metro Map.
+
 =item L<Map::Tube::Minsk>
 
 Interface to the Minsk Metro Map.

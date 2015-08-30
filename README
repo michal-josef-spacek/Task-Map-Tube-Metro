@@ -50,6 +50,9 @@ SEE ALSO
     Map::Tube::Lyon
         Interface to the Lyon metro map.
 
+    Map::Tube::Malaga
+        Interface to the Málaga Metro Map.
+
     Map::Tube::Minsk
         Interface to the Minsk Metro Map.
 
