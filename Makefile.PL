@@ -48,7 +48,6 @@ resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Task-Map-Tube-Metro';
 resources 'homepage' => 'https://github.com/tupinek/Task-Map-Tube-Metro';
 resources 'repository' => 'git://github.com/tupinek/Task-Map-Tube-Metro';
-test_requires 'Encode' => 0;
 test_requires 'English' => 0;
 test_requires 'File::Object' => 0.08;
 test_requires 'Test::More' => 0;

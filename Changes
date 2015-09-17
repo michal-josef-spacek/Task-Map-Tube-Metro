@@ -1,4 +1,5 @@
 0.04
+ - Remove obsolete test requires.
  - Update Map::Tube::Barcelona to 0.24 version.
 
 0.03 2015-09-07T10:50:47+02:00
