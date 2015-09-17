@@ -8,10 +8,15 @@ use inc::Module::Install;
 # Definition.
 abstract 'Install the Map::Tube concrete metro modules.';
 author 'Michal Spacek <skim@cpan.org>';
+author_requires 'English' => 0;
+author_requires 'File::Object' => 0.08;
+author_requires 'Test::Pod' => 0;
+author_requires 'Test::Pod::Coverage' => 0;
 license 'bsd';
 license 'artistic_2';
 name 'Task-Map-Tube-Metro';
 readme_from 'Metro.pm';
+recursive_author_tests('xt');
 requires 'Map::Tube::Barcelona' => 0.24;
 requires 'Map::Tube::Beijing' => 0.01;
 requires 'Map::Tube::Berlin' => 0.09;
@@ -48,12 +53,8 @@ resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Task-Map-Tube-Metro';
 resources 'homepage' => 'https://github.com/tupinek/Task-Map-Tube-Metro';
 resources 'repository' => 'git://github.com/tupinek/Task-Map-Tube-Metro';
-test_requires 'English' => 0;
-test_requires 'File::Object' => 0.08;
 test_requires 'Test::More' => 0;
 test_requires 'Test::NoWarnings' => 0;
-test_requires 'Test::Pod' => 0;
-test_requires 'Test::Pod::Coverage' => 0;
 tests_recursive;
 version '0.04';
 
