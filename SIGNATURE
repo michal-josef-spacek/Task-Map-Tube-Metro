@@ -14,15 +14,17 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 f28e35bf214458175170952605377e4568c29aab Changes
+SHA1 3f80827f14611a0780cf0fb3ce68664a81f787ba Changes
 SHA1 882221895a73bad18eb9f16a0ce523a968a932c1 LICENSE.artistic_2
 SHA1 507a10efa92555ddddfbe72be27964d9e3eef80f LICENSE.bsd
-SHA1 625372368d6eb975cd9ebc6405bd6ade68931ec7 MANIFEST
-SHA1 28ff966924b7b03a0b6da2620ee23e8554dda89f META.yml
-SHA1 191db744eed8b29d521fae9fa843b1eafbf2988a Makefile.PL
-SHA1 a6961b6e39ce756900a22a4ec8d2e53698a7ea99 Metro.pm
-SHA1 f3868094a39fa68667aca65275738271f0fc5783 README
+SHA1 cf4438adc7f8bffa92220eb6bfd5c7c589092c93 MANIFEST
+SHA1 cee19fa0998a21fb55ff4a64aa3186ee2f25aa45 META.yml
+SHA1 f2facc9f2ce256a771a2ab3bf21473ff2ebb3539 Makefile.PL
+SHA1 e70a76edd8e8192679a03fba20c68561d3ff8bbb Metro.pm
+SHA1 9782ace3bfb9041917ec0c80f3153d62032311f4 README
 SHA1 bce3c51bb369419603298064b78e14077b93af66 inc/Module/Install.pm
+SHA1 5c1a9d3a384a5262cbc105ab76d446047904c7fa inc/Module/Install/AuthorRequires.pm
+SHA1 d001b4b9a48395a8c4134b234a0e1789138427c5 inc/Module/Install/AuthorTests.pm
 SHA1 fe220f215f645500ce8f14ff5e19d9a28692af56 inc/Module/Install/Base.pm
 SHA1 b56ed8e42c600e08007d152cf0b1438a7c3b7f6e inc/Module/Install/Can.pm
 SHA1 99c531a17a67ce5250df2ae151cc48c80d914cde inc/Module/Install/Fetch.pm
@@ -31,18 +33,18 @@ SHA1 2e33e87882d60db3913da6284dd5295e5315e18a inc/Module/Install/Metadata.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
 SHA1 c830b819e61bda5eca077c6291293bba61b3b9f2 inc/Module/Install/Win32.pm
 SHA1 cb52b9d6f88d512d448a6f35ed0af0d1201a134b inc/Module/Install/WriteAll.pm
-SHA1 9e1ac0bf811dd2924a328f55f79a8e209a38e7ea t/Task-Map-Tube-Metro/00-use.t
-SHA1 d0f2e204cee31738bf4512ac070ab9eb9281f486 t/Task-Map-Tube-Metro/01-version.t
-SHA1 15732574e11095ab303cea7a289dfe75ecbdf186 t/Task-Map-Tube-Metro/02-pod_coverage.t
-SHA1 25db449dc1aff160389903e8b3a03fac6eb81706 t/Task-Map-Tube-Metro/03-pod.t
+SHA1 9e1ac0bf811dd2924a328f55f79a8e209a38e7ea t/Task-Map-Tube-Metro/01-use.t
+SHA1 634cff7d56c031d1ed453a6eb4d62dd2240e8bb6 t/Task-Map-Tube-Metro/02-version.t
+SHA1 15732574e11095ab303cea7a289dfe75ecbdf186 xt/Task-Map-Tube-Metro/01-pod_coverage.t
+SHA1 25db449dc1aff160389903e8b3a03fac6eb81706 xt/Task-Map-Tube-Metro/02-pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQEcBAEBAgAGBQJV7U/pAAoJEJe+XXKaIuTlHosH/AkNAnaW9W1+8cYjRK4RWEfO
-STqUd8JoPIlLcEcjkrZhHou/ZaYv01Xby3ifofCn2g38kFBSgi7QDo/77XCYzDSX
-PrQw2si+g8O9lEwdX8V4n92XT51rkGy5IMlL0is6XdfEfEamPKE3hCktghC8LJP+
-zMASLhDGmwIKPJ/YKQt92WyphU+6UCrMG/4gH4Wt6UKD+BZlvHvhixV2/4mJ5n4L
-5VI+EvNWzPMNZMH6Sa6Mm+Ix3pIYaVfUJu71T+5tsDnqieN+gqIfMyRnS1T1tz3Z
-G2ZPBNNj1osCb1n10gXMr+VZJJJpcNuob52z9abHc5da+ZSjuqWzQBbbGgbwRRc=
-=pqzx
+iQEcBAEBAgAGBQJWAGpUAAoJEJe+XXKaIuTlJ4AH/0iDVVFwzHwjiHtxZusyqlGp
+7IB7b1xPFdtigxlprkeNSmGDKG4v7tFnv92hbsU51p2d/OHgd+OHwM9jlNp9R2e3
+cWFT9pT1Leu/T8vamuzPSE1kSms/cvJRFXNINi3hmlCeia/k+DrxqZRkLU8sS+yE
+w0eGFH3Y/42wg8dUEnqdzdEuwUZfFBAT30z2xkNlgj39vFcjQsfG2V1bLZLodEU1
+IdOpUP+BjXEZCsxi7lGV0rtCi6SBcvCjMb8sFNPM5sTAXJ1xyAfhGQ1zALNKibuQ
+2H1qo+ah3pHMzE3OU6Ul8FHl/2AfFsGm48fJg1tVuSv+oBA6Z33rVuhz0oLNl/I=
+=q88j
 -----END PGP SIGNATURE-----
