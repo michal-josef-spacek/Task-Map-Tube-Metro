@@ -1,4 +1,5 @@
 0.05
+ - Update Map::Tube::Malaga to 0.14 version.
 
 0.04 2015-09-21T22:36:31+02:00
  - Move author tests to xt/ directory.
