@@ -2,6 +2,7 @@
  - Update Map::Tube::Delhi to 0.35 version.
  - Update Map::Tube::Malaga to 0.14 version.
  - Update Map::Tube::NYC to 0.25 version.
+ - Update Map::Tube::Tokyo to 0.21 version.
 
 0.04 2015-09-21T22:36:31+02:00
  - Move author tests to xt/ directory.
