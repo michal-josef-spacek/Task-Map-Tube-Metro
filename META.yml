@@ -50,7 +50,7 @@ requires:
   Map::Tube::Sofia: 0.05
   Map::Tube::Tbilisi: 0.02
   Map::Tube::Tokyo: 0.21
-  Map::Tube::Vienna: 0.04
+  Map::Tube::Vienna: 0.05
   Map::Tube::Warsaw: 0.04
   Map::Tube::Yekaterinburg: 0.03
   perl: 5.6.0
