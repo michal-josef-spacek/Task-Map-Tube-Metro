@@ -1,4 +1,5 @@
 0.06
+ - Fix author requires.
  - Update Map::Tube::Bucharest to 0.06 version.
  - Update Map::Tube::Budapest to 0.03 version.
  - Update Map::Tube::Dnipropetrovsk to 0.04 version.
