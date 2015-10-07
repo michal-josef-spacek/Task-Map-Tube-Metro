@@ -38,7 +38,7 @@ requires:
   Map::Tube::London: 0.74
   Map::Tube::Lyon: 0.06
   Map::Tube::Malaga: 0.14
-  Map::Tube::Minsk: 0.03
+  Map::Tube::Minsk: 0.04
   Map::Tube::Moscow: 0.05
   Map::Tube::NYC: 0.25
   Map::Tube::Nanjing: 0.03
