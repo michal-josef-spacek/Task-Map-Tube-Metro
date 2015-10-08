@@ -42,6 +42,7 @@ requires:
   Map::Tube::Moscow: 0.06
   Map::Tube::NYC: 0.25
   Map::Tube::Nanjing: 0.03
+  Map::Tube::NizhnyNovgorod: 0.02
   Map::Tube::Novosibirsk: 0.02
   Map::Tube::Prague: 0.12
   Map::Tube::SaintPetersburg: 0.03
