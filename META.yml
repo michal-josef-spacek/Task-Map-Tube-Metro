@@ -43,7 +43,7 @@ requires:
   Map::Tube::NYC: 0.25
   Map::Tube::Nanjing: 0.04
   Map::Tube::NizhnyNovgorod: 0.03
-  Map::Tube::Novosibirsk: 0.02
+  Map::Tube::Novosibirsk: 0.03
   Map::Tube::Prague: 0.12
   Map::Tube::SaintPetersburg: 0.04
   Map::Tube::Samara: 0.03
