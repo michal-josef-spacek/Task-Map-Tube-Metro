@@ -46,7 +46,7 @@ requires:
   Map::Tube::Novosibirsk: 0.03
   Map::Tube::Prague: 0.12
   Map::Tube::SaintPetersburg: 0.04
-  Map::Tube::Samara: 0.03
+  Map::Tube::Samara: 0.04
   Map::Tube::Singapore: 0.02
   Map::Tube::Sofia: 0.06
   Map::Tube::Tbilisi: 0.03
