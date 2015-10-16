@@ -52,7 +52,7 @@ requires:
   Map::Tube::Tbilisi: 0.04
   Map::Tube::Tokyo: 0.21
   Map::Tube::Vienna: 0.06
-  Map::Tube::Warsaw: 0.05
+  Map::Tube::Warsaw: 0.06
   Map::Tube::Yekaterinburg: 0.05
   perl: 5.6.0
 resources:
