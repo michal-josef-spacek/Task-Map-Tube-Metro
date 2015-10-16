@@ -21,7 +21,7 @@ readme_from 'Metro.pm';
 recursive_author_tests('xt');
 requires 'Map::Tube::Barcelona' => 0.25;
 requires 'Map::Tube::Beijing' => 0.01;
-requires 'Map::Tube::Berlin' => 0.09;
+requires 'Map::Tube::Berlin' => 0.11;
 requires 'Map::Tube::Bucharest' => 0.07;
 requires 'Map::Tube::Budapest' => 0.04;
 requires 'Map::Tube::Delhi' => 0.35;
