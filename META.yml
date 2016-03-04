@@ -27,7 +27,7 @@ requires:
   Map::Tube::Berlin: 0.12
   Map::Tube::Bucharest: 0.08
   Map::Tube::Budapest: 0.04
-  Map::Tube::Delhi: 0.38
+  Map::Tube::Delhi: 0.4
   Map::Tube::Dnipropetrovsk: 0.05
   Map::Tube::Glasgow: 0.07
   Map::Tube::Kazan: 0.04
