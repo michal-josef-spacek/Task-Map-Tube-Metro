@@ -1,4 +1,5 @@
 0.11
+ - Rename LICENSE.artistic_2 file to LICENSE.
  - Update Map::Tube::Barcelona to 0.31 version.
  - Update Map::Tube::Delhi to 0.40 version.
  - Update Map::Tube::NYC to 0.31 version.
