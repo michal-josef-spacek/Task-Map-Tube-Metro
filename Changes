@@ -2,7 +2,7 @@
  - Update Map::Tube::Barcelona to 0.37 version.
  - Update Map::Tube::Delhi to 0.43 version.
  - Update Map::Tube::London to 0.75 version.
- - Update Map::Tube::NYC to 0.32 version.
+ - Update Map::Tube::NYC to 0.33 version.
 
 0.11 2016-04-04T15:10:52+02:00
  - Rename LICENSE.artistic_2 file to LICENSE.
