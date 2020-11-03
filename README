@@ -17,6 +17,9 @@ SEE ALSO
     Map::Tube::Berlin
         Interface to the Berlin S- and U-Bahn map.
 
+    Map::Tube::Bielefeld
+        interface to the Bielefeld Stadtbahn
+
     Map::Tube::Bucharest
         Interface to the Bucharest Metro Map.
 

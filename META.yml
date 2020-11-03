@@ -26,6 +26,7 @@ requires:
   Map::Tube::Barcelona: 0.37
   Map::Tube::Beijing: 0.01
   Map::Tube::Berlin: 0.14
+  Map::Tube::Bielefeld: 2020.033
   Map::Tube::Bucharest: 0.08
   Map::Tube::Budapest: 0.04
   Map::Tube::Delhi: 0.43

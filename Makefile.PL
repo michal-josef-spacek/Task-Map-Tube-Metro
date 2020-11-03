@@ -22,6 +22,7 @@ requires 'Map::Tube::Athens' => 0.01;
 requires 'Map::Tube::Barcelona' => 0.37;
 requires 'Map::Tube::Beijing' => 0.01;
 requires 'Map::Tube::Berlin' => 0.14;
+requires 'Map::Tube::Bielefeld' => 2020.0330;
 requires 'Map::Tube::Bucharest' => 0.08;
 requires 'Map::Tube::Budapest' => 0.04;
 requires 'Map::Tube::Delhi' => 0.43;

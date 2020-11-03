@@ -41,6 +41,10 @@ Interface to the Beijing tube map
 
 Interface to the Berlin S- and U-Bahn map.
 
+=item L<Map::Tube::Bielefeld>
+
+interface to the Bielefeld Stadtbahn
+
 =item L<Map::Tube::Bucharest>
 
 Interface to the Bucharest Metro Map.
