@@ -161,13 +161,13 @@ L<https://github.com/michal-josef-spacek/Task-Map-Tube-Metro>
 
 =head1 AUTHOR
 
-Michal Špaček L<mailto:skim@cpan.org>
+Michal Josef Špaček L<mailto:skim@cpan.org>
 
 L<http://skim.cz>
 
 =head1 LICENSE AND COPYRIGHT
 
- © 2015-2020 Michal Špaček
+ © 2015-2020 Michal Josef Špaček
  Artistic License
  BSD 2-Clause License
 
