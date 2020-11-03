@@ -18,6 +18,7 @@ license 'artistic_2';
 name 'Task-Map-Tube-Metro';
 readme_from 'Metro.pm';
 recursive_author_tests('xt');
+requires 'Map::Tube::Athens' => 0.01;
 requires 'Map::Tube::Barcelona' => 0.37;
 requires 'Map::Tube::Beijing' => 0.01;
 requires 'Map::Tube::Berlin' => 0.14;

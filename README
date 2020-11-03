@@ -5,6 +5,9 @@ SYNOPSIS
      cpanm Task::Map::Tube::Metro
 
 SEE ALSO
+    Map::Tube::Athens
+        Map::Tube interface to the Athens Metro
+
     Map::Tube::Barcelona
         Interface to the Barcelona Metro Map.
 

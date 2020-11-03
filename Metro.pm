@@ -25,6 +25,10 @@ Task::Map::Tube - Install the Map::Tube concrete metro modules.
 
 =over
 
+=item L<Map::Tube::Athens>
+
+Map::Tube interface to the Athens Metro
+
 =item L<Map::Tube::Barcelona>
 
 Interface to the Barcelona Metro Map.
