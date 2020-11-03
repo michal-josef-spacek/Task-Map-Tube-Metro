@@ -58,7 +58,7 @@ requires:
   perl: 5.6.0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Task-Map-Tube-Metro
-  homepage: https://github.com/tupinek/Task-Map-Tube-Metro
+  homepage: https://github.com/michal-josef-spacek/Task-Map-Tube-Metro
   license: http://opensource.org/licenses/artistic-license-2.0.php
-  repository: git://github.com/tupinek/Task-Map-Tube-Metro
+  repository: git://github.com/michal-josef-spacek/Task-Map-Tube-Metro
 version: '0.13'

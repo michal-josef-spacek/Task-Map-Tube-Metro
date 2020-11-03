@@ -157,7 +157,7 @@ Interface to the Yekaterinburg Metro Map.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Task-Map-Tube-Metro>
+L<https://github.com/michal-josef-spacek/Task-Map-Tube-Metro>
 
 =head1 AUTHOR
 

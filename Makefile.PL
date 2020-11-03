@@ -54,8 +54,8 @@ requires 'Map::Tube::Yekaterinburg' => 0.05;
 requires 'perl' => '5.6.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Task-Map-Tube-Metro';
-resources 'homepage' => 'https://github.com/tupinek/Task-Map-Tube-Metro';
-resources 'repository' => 'git://github.com/tupinek/Task-Map-Tube-Metro';
+resources 'homepage' => 'https://github.com/michal-josef-spacek/Task-Map-Tube-Metro';
+resources 'repository' => 'git://github.com/michal-josef-spacek/Task-Map-Tube-Metro';
 test_requires 'Test::More' => 0;
 test_requires 'Test::NoWarnings' => 0;
 tests_recursive;
