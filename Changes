@@ -1,5 +1,6 @@
 0.13
  - Update Map::Tube::London to 0.76 version.
+ - Update Module::Install to 1.19 version.
 
 0.12 2016-06-27T11:33:08+02:00
  - Update Map::Tube::Barcelona to 0.37 version.
