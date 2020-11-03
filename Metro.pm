@@ -53,6 +53,10 @@ Interface to the Bucharest Metro Map.
 
 Interface to the Budapest Metro Map.
 
+=item L<Map::Tube::Copenhagen>
+
+Interface to the Copenhagen Metro map
+
 =item L<Map::Tube::Delhi>
 
 Interface to the Delhi Metro Map.

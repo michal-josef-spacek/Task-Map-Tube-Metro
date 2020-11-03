@@ -26,6 +26,9 @@ SEE ALSO
     Map::Tube::Budapest
         Interface to the Budapest Metro Map.
 
+    Map::Tube::Copenhagen
+        Interface to the Copenhagen Metro map
+
     Map::Tube::Delhi
         Interface to the Delhi Metro Map.
 
