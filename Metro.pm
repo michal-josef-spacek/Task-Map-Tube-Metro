@@ -1,10 +1,8 @@
 package Task::Map::Tube::Metro;
 
-# Pragmas.
 use strict;
 use warnings;
 
-# Version.
 our $VERSION = 0.13;
 
 1;
