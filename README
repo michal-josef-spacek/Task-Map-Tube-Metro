@@ -53,6 +53,9 @@ SEE ALSO
     Map::Tube::Malaga
         Interface to the Málaga Metro Map.
 
+    Map::Tube::Milan
+        Interface to the Milan tube map.
+
     Map::Tube::Minsk
         Interface to the Minsk Metro Map.
 

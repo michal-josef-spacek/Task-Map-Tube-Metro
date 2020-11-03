@@ -35,6 +35,7 @@ requires 'Map::Tube::KualaLumpur' => 0.05;
 requires 'Map::Tube::London' => 0.76;
 requires 'Map::Tube::Lyon' => 0.06;
 requires 'Map::Tube::Malaga' => 0.15;
+requires 'Map::Tube::Milan' => 0.005;
 requires 'Map::Tube::Minsk' => 0.05;
 requires 'Map::Tube::Moscow' => 0.07;
 requires 'Map::Tube::NYC' => 0.33;
