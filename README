@@ -62,6 +62,9 @@ SEE ALSO
     Map::Tube::Lyon
         Interface to the Lyon metro map.
 
+    Map::Tube::Madrid
+        Interface to the Madrid Metro Map.
+
     Map::Tube::Malaga
         Interface to the Málaga Metro Map.
 

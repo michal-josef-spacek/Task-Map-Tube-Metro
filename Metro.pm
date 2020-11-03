@@ -101,6 +101,10 @@ Interface to the London Tube Map.
 
 Interface to the Lyon metro map.
 
+=item L<Map::Tube::Madrid>
+
+Interface to the Madrid Metro Map.
+
 =item L<Map::Tube::Malaga>
 
 Interface to the Málaga Metro Map.

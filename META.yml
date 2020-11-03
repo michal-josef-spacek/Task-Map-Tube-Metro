@@ -41,6 +41,7 @@ requires:
   Map::Tube::KualaLumpur: 0.05
   Map::Tube::London: 0.76
   Map::Tube::Lyon: 0.06
+  Map::Tube::Madrid: 0.39
   Map::Tube::Malaga: 0.15
   Map::Tube::Milan: 0.005
   Map::Tube::Minsk: 0.05

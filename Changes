@@ -3,6 +3,7 @@
  - Add Map::Tube::Bielefeld 2020.0330 version.
  - Add Map::Tube::Copenhagen 0.04 version.
  - Add Map::Tube::Frankfurt 0.04 version.
+ - Add Map::Tube::Madrid 0.39 version.
  - Add Map::Tube::Milan 0.005 version.
  - Add Map::Tube::Nuremberg 0.06 version.
  - Fix Makefile.PL failing with no '.' in @INC.
