@@ -41,6 +41,7 @@ requires 'Map::Tube::NYC' => 0.33;
 requires 'Map::Tube::Nanjing' => 0.04;
 requires 'Map::Tube::NizhnyNovgorod' => 0.03;
 requires 'Map::Tube::Novosibirsk' => 0.03;
+requires 'Map::Tube::Nuremberg' => 0.06;
 requires 'Map::Tube::Prague' => 0.13;
 requires 'Map::Tube::SaintPetersburg' => 0.06;
 requires 'Map::Tube::Samara' => 0.06;

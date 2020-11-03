@@ -113,6 +113,10 @@ Interface to the Nanjing Metro Map.
 
 Interface to the Novosibirsk Metro Map.
 
+=item L<Map::Tube::Nuremberg>
+
+interface to the Nuremberg U-Bahn map
+
 =item L<Map::Tube::Prague>
 
 Interface to the Prague Metro Map.

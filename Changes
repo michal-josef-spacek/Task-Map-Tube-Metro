@@ -1,5 +1,6 @@
 0.13
  - Add Map::Tube::Milan 0.005 version.
+ - Add Map::Tube::Nuremberg 0.06 version.
  - Fix Makefile.PL failing with no '.' in @INC.
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Update Map::Tube::London to 0.76 version.

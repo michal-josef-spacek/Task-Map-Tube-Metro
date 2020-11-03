@@ -71,6 +71,9 @@ SEE ALSO
     Map::Tube::Novosibirsk
         Interface to the Novosibirsk Metro Map.
 
+    Map::Tube::Nuremberg
+        interface to the Nuremberg U-Bahn map
+
     Map::Tube::Prague
         Interface to the Prague Metro Map.
 
