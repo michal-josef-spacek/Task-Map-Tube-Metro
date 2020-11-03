@@ -89,6 +89,10 @@ Interface to the Kiev Metro Map.
 
 Interface to the Koeln-Bonn U- and S-Bahn and tram maps.
 
+=item L<Map::Tube::Kolkatta>
+
+Interface to the Kolkatta Metro Map.
+
 =item L<Map::Tube::KualaLumpur>
 
 Interface to the KualaLumpur urban monorail system map.

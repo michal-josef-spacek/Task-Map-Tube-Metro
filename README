@@ -53,6 +53,9 @@ SEE ALSO
     Map::Tube::KoelnBonn
         Interface to the Koeln-Bonn U- and S-Bahn and tram maps.
 
+    Map::Tube::Kolkatta
+        Interface to the Kolkatta Metro Map.
+
     Map::Tube::KualaLumpur
         Interface to the KualaLumpur urban monorail system map.
 

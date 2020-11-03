@@ -34,6 +34,7 @@ requires 'Map::Tube::Kazan' => 0.04;
 requires 'Map::Tube::Kharkiv' => 0.05;
 requires 'Map::Tube::Kiev' => 0.05;
 requires 'Map::Tube::KoelnBonn' => 0.09;
+requires 'Map::Tube::Kolkatta' => 0.33;
 requires 'Map::Tube::KualaLumpur' => 0.05;
 requires 'Map::Tube::London' => 0.76;
 requires 'Map::Tube::Lyon' => 0.06;
