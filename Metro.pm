@@ -65,6 +65,10 @@ Interface to the Delhi Metro Map.
 
 Interface to the Dnipropetrovsk Metro Map.
 
+=item L<Map::Tube::Frankfurt>
+
+interface to the Frankfurt S- and U-Bahn map
+
 =item L<Map::Tube::Glasgow>
 
 Interface to the Glasgow tube map
