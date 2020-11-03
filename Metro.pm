@@ -3,7 +3,7 @@ package Task::Map::Tube::Metro;
 use strict;
 use warnings;
 
-our $VERSION = 0.13;
+our $VERSION = 0.14;
 
 1;
 
@@ -203,6 +203,6 @@ BSD 2-Clause License
 
 =head1 VERSION
 
-0.13
+0.14
 
 =cut
