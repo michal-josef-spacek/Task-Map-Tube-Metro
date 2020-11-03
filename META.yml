@@ -49,7 +49,7 @@ requires:
   Map::Tube::SaintPetersburg: 0.06
   Map::Tube::Samara: 0.06
   Map::Tube::Singapore: 0.03
-  Map::Tube::Sofia: 0.07
+  Map::Tube::Sofia: 0.08
   Map::Tube::Tbilisi: 0.04
   Map::Tube::Tokyo: 0.59
   Map::Tube::Vienna: 0.08
