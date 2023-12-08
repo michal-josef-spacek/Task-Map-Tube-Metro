@@ -19,7 +19,7 @@ name 'Task-Map-Tube-Metro';
 readme_from 'Metro.pm';
 recursive_author_tests('xt');
 requires 'Map::Tube::Athens' => 0.01;
-requires 'Map::Tube::Barcelona' => 0.37;
+requires 'Map::Tube::Barcelona' => 0.76;
 requires 'Map::Tube::Beijing' => 0.01;
 requires 'Map::Tube::Berlin' => 0.14;
 requires 'Map::Tube::Bielefeld' => 2020.0330;

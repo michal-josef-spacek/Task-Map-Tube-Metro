@@ -23,7 +23,7 @@ no_index:
     - xt
 requires:
   Map::Tube::Athens: 0.01
-  Map::Tube::Barcelona: 0.37
+  Map::Tube::Barcelona: 0.76
   Map::Tube::Beijing: 0.01
   Map::Tube::Berlin: 0.14
   Map::Tube::Bielefeld: 2020.033

@@ -1,6 +1,7 @@
 0.14
  - Move bugtracker to github.
  - Rename LICENSE to LICENSE.artistic_2.
+ - Update Map::Tube::Barcelona to 0.76 version.
  - Update Module::Install to 1.21 version.
 
 0.13 2020-11-03T23:51:31+01:00
