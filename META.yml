@@ -27,7 +27,7 @@ requires:
   Map::Tube::Beijing: 0.01
   Map::Tube::Berlin: 2021.0709
   Map::Tube::Bielefeld: 2020.033
-  Map::Tube::Bucharest: 0.08
+  Map::Tube::Bucharest: 0.11
   Map::Tube::Budapest: 0.04
   Map::Tube::Copenhagen: 0.04
   Map::Tube::Delhi: 0.43
