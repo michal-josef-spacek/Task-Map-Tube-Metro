@@ -25,7 +25,7 @@ requires:
   Map::Tube::Athens: 0.01
   Map::Tube::Barcelona: 0.76
   Map::Tube::Beijing: 0.01
-  Map::Tube::Berlin: 0.14
+  Map::Tube::Berlin: 2021.0709
   Map::Tube::Bielefeld: 2020.033
   Map::Tube::Bucharest: 0.08
   Map::Tube::Budapest: 0.04
