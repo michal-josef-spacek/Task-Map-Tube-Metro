@@ -52,7 +52,7 @@ requires:
   Map::Tube::NizhnyNovgorod: 0.03
   Map::Tube::Novosibirsk: 0.03
   Map::Tube::Nuremberg: 0.06
-  Map::Tube::Prague: 0.13
+  Map::Tube::Prague: 0.16
   Map::Tube::SaintPetersburg: 0.06
   Map::Tube::Samara: 0.06
   Map::Tube::Singapore: 0.03
