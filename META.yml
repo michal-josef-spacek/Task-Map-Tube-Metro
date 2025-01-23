@@ -30,7 +30,7 @@ requires:
   Map::Tube::Bucharest: 0.11
   Map::Tube::Budapest: 0.07
   Map::Tube::Copenhagen: 0.04
-  Map::Tube::Delhi: 0.43
+  Map::Tube::Delhi: 0.97
   Map::Tube::Dnipropetrovsk: 0.05
   Map::Tube::Frankfurt: 0.04
   Map::Tube::Glasgow: "\0H\x01"
