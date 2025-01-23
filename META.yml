@@ -50,7 +50,7 @@ requires:
   Map::Tube::NYC: 0.33
   Map::Tube::Nanjing: 0.04
   Map::Tube::NizhnyNovgorod: 0.04
-  Map::Tube::Novosibirsk: 0.03
+  Map::Tube::Novosibirsk: 0.04
   Map::Tube::Nuremberg: 0.06
   Map::Tube::Prague: 0.16
   Map::Tube::SaintPetersburg: 0.07
