@@ -20,7 +20,7 @@ readme_from 'Metro.pm';
 recursive_author_tests('xt');
 requires 'Map::Tube::Athens' => 0.01;
 requires 'Map::Tube::Barcelona' => 0.76;
-requires 'Map::Tube::Beijing' => 0.01;
+requires 'Map::Tube::Beijing' => 0.12.3;
 requires 'Map::Tube::Berlin' => 2021.0709;
 requires 'Map::Tube::Bielefeld' => 2020.0330;
 requires 'Map::Tube::Bucharest' => 0.11;

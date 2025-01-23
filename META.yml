@@ -24,7 +24,7 @@ no_index:
 requires:
   Map::Tube::Athens: 0.01
   Map::Tube::Barcelona: 0.76
-  Map::Tube::Beijing: 0.01
+  Map::Tube::Beijing: "\0\f\x03"
   Map::Tube::Berlin: 2021.0709
   Map::Tube::Bielefeld: 2020.033
   Map::Tube::Bucharest: 0.11
