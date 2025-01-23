@@ -1,4 +1,5 @@
 0.14
+ - Add Map::Tube::Hamburg 0.1.1 version.
  - Add Map::Tube::Rome 1.01 version.
  - Move bugtracker to github.
  - Rename LICENSE to LICENSE.artistic_2.

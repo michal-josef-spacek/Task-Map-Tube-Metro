@@ -30,6 +30,7 @@ requires 'Map::Tube::Delhi' => 0.97;
 requires 'Map::Tube::Dnipropetrovsk' => 0.05;
 requires 'Map::Tube::Frankfurt' => 0.04;
 requires 'Map::Tube::Glasgow' => 0.72.1;
+requires 'Map::Tube::Hamburg' => 0.1.1;
 requires 'Map::Tube::Kazan' => 0.04;
 requires 'Map::Tube::Kharkiv' => 0.08;
 requires 'Map::Tube::Kiev' => 0.07;

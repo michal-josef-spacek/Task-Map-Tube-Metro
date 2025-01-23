@@ -34,6 +34,7 @@ requires:
   Map::Tube::Dnipropetrovsk: 0.05
   Map::Tube::Frankfurt: 0.04
   Map::Tube::Glasgow: "\0H\x01"
+  Map::Tube::Hamburg: "\0\x01\x01"
   Map::Tube::Kazan: 0.04
   Map::Tube::Kharkiv: 0.08
   Map::Tube::Kiev: 0.07
