@@ -54,6 +54,7 @@ requires:
   Map::Tube::Novosibirsk: 0.05
   Map::Tube::Nuremberg: 0.06
   Map::Tube::Prague: 0.16
+  Map::Tube::RheinRuhr: 0.001
   Map::Tube::Rome: 1.01
   Map::Tube::SaintPetersburg: 0.08
   Map::Tube::Samara: 0.06
