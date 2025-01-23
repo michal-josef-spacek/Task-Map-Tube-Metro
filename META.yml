@@ -42,7 +42,7 @@ requires:
   Map::Tube::Kolkatta: 0.33
   Map::Tube::KualaLumpur: 0.07
   Map::Tube::London: 1.41
-  Map::Tube::Lyon: 0.06
+  Map::Tube::Lyon: 0.062001
   Map::Tube::Madrid: 0.39
   Map::Tube::Malaga: 0.18
   Map::Tube::Milan: 0.008
