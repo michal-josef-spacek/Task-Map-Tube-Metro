@@ -57,7 +57,7 @@ requires:
   Map::Tube::RheinRuhr: 0.001
   Map::Tube::Rome: 1.01
   Map::Tube::SaintPetersburg: 0.08
-  Map::Tube::Samara: 0.06
+  Map::Tube::Samara: 0.08
   Map::Tube::Singapore: 0.05
   Map::Tube::Sofia: 0.1
   Map::Tube::Tbilisi: 0.05
