@@ -43,7 +43,7 @@ requires:
   Map::Tube::London: 0.76
   Map::Tube::Lyon: 0.06
   Map::Tube::Madrid: 0.39
-  Map::Tube::Malaga: 0.15
+  Map::Tube::Malaga: 0.18
   Map::Tube::Milan: 0.005
   Map::Tube::Minsk: 0.08
   Map::Tube::Moscow: 0.07
