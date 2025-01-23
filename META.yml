@@ -45,7 +45,7 @@ requires:
   Map::Tube::Madrid: 0.39
   Map::Tube::Malaga: 0.15
   Map::Tube::Milan: 0.005
-  Map::Tube::Minsk: 0.05
+  Map::Tube::Minsk: 0.08
   Map::Tube::Moscow: 0.07
   Map::Tube::NYC: 0.33
   Map::Tube::Nanjing: 0.04
